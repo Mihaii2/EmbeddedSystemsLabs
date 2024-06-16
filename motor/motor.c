@@ -15,5 +15,5 @@ int main(void) {
 			P3_0 = 1;
 			P3_1 = 0;
 		}
-	}
+	} // motor switch control
 }

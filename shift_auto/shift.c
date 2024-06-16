@@ -19,4 +19,4 @@ int main(int argc, char** argv) {
       }
       P1 = ~x;
   }
-}
+} // led shift auto
